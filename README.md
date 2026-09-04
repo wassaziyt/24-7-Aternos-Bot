@@ -1,1 +1,3 @@
-# 24-7-Aternos-Bot
+# EndlessSMP 24/7 Bot
+
+**Endl3ssSMP.aternos.me**
