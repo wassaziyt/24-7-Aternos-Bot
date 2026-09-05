@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Endl3ssSMP.aternos.me",
+    "port": 33573,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,20 +20,20 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "afkbot123"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im a afk bot",
+        "lololol",
+        "wassazi is the best"
       ]
     },
     "chat-log": true,
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1545722861254217768/L8lNxfhYc2mp660zQjBfsLKHVonGPPOPAzYRYSUatZwhAV7IUAiVydAdg5Oq7sjuIXQi",
     "events": {
       "connect": true,
       "disconnect": true,
